@@ -1,7 +1,9 @@
 # GRE-MadeEasy
 An android application, perfect for preparing for GRE exam with lots of resources, guides and lots of quizzes. 
+
 <p align="center">
-### MAIN SCREEN
+
+<h2>MAIN SCREEN</h2>
 </p>
 <p align="center">
 	<img src="https://github.com/nihalnihalani/GRE-MADE-EASY--ANDROID-APP/blob/master/Images/screen1.jpg" width="250" height="409" align="center">
