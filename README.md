@@ -1,5 +1,6 @@
 # GRE-MadeEasy
-An Android Application with keeping in mind to facilitate the preparation needed for GRE Exam, This app includes interactive graphics and huge number of questions, quizzes and study materials with lots of tricks to crack GRE.
+
+## An Android Application with keeping in mind to facilitate the preparation needed for GRE Exam, This app includes interactive graphics and huge number of questions, quizzes and study materials with lots of tricks to crack GRE.
 
 <p align="center">
 	<h2 style="text-align:center">MAIN SCREEN</h2>
