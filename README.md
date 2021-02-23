@@ -18,7 +18,6 @@ An android application, perfect for preparing for GRE exam with lots of resource
 
 ### QUESTION SECTION
 <p align="center">
-
 	<img src="https://github.com/nihalnihalani/GRE-MADE-EASY--ANDROID-APP/blob/master/Images/screen3.jpg" width="250" height="409" align="center">
 </p>
 
